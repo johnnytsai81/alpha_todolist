@@ -1,4 +1,14 @@
-# Todo List X MVC with React
+# ALPHA Todo List
 
-- A starter project for react tutorial
-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Progress
+
+目前已經建立好 todo list 的新增、編輯、刪除功能
+
+## Project Preview
+
+![image](public/images/preview_1.png)
+
+## Project Usage Guide
+
+1. `npm install` 安裝所需要的檔案
+2. `npm start` 啟動專案
