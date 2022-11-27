@@ -6,7 +6,7 @@
 
 ## Project Preview
 
-![image](public/images/preview_1.png)
+![image](public/images/preview-1.png)
 
 ## Project Usage Guide
 
